@@ -50,9 +50,51 @@
 }
 .benefits p{
 	text-align: center;
+}
+.bg_img{
+	background: url('../images/smart_women.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	/*padding:700px;*/
+	padding-bottom: 500px;
+}
+.bg_imgs{
+	background: url('../images/yoga_women.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	/*padding:700px;*/
+	padding-bottom: 500px;
+
+}
+.feature h3 p{
+	padding-top: 100px;
+	padding-left: 50px;
+}
+.bg_imgs2{
+	background: url('../images/people_indoor.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	/*padding:700px;*/
+	padding-bottom: 500px;
+
+}
+/*.people_img{
+	background:url('../images/chimp.jpg'); 
+	background-size: cover;
+	background-repeat:no-repeat;
+	border-radius: 50%;
+}*/
+.peoples{
+	text-align: center;
+}
+.peoples_padding{
+	padding-top: 70px;
+}
+.people_img img{
+	border-radius: 50%;
 
 }
 
-
-
-	
