@@ -1,0 +1,91 @@
+
+.home-image{
+	background: url('../images/laptop.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+	
+}
+.nav-text li a{
+	font-weight: bold;
+	font-size: 22px;
+	margin-left: 50px;
+
+}
+.navbar-text{
+	color: green;
+}
+.home-text h2{
+	font-weight:800;
+	color:#fff;
+	font-size: 42px;
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	font-family: 'Raleway', sans-serif;
+
+}
+.home-text p{
+	font-size: 20px;
+	color: #fff;
+	position: absolute;
+	top: 60%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	font-family: 'Spectral', serif;
+	/*padding-top: -10px;*/
+}
+.posts h3{
+	font-weight: bold;
+	font-size:32px;
+
+}
+.post-author span{
+	color: #90979E;
+	font-size:10px;
+}
+.posts p{
+	font-size: 18px;
+
+}
+post-author{
+	font-size:15px;
+	font-weight: bold;
+}
+.posts {
+	padding-bottom: 10px;
+}
+.older-button{
+	
+	float: right;
+	padding-bottom: 20px;
+}
+.button-text{
+	font-weight: bold;
+	padding: 25px;
+}
+.posts-section{
+	padding-bottom: 10px;
+	padding-top: 20px;
+}
+.footer{
+	background: #c4d8e2;
+	background-position: center;
+	height:400px;
+
+}
+.fonts{
+	text-align: center;
+	padding-top: 40px;
+	margin-right: 10px;
+
+	
+}
+.fonts-text {
+	color: #818990;
+	text-align:center;
+	margin-right: 20px;
+}
+

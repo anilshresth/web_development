@@ -1,0 +1,58 @@
+.home-image{
+	background: url('../images/calm_ocean.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.bgs{
+	background-color: #fff;
+	height: 100px;
+	padding-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.bgs button{
+	float: right;
+	padding-top: 20px;
+}
+.home-text{
+	color: #fff;
+	font-weight: bold;
+	position:absolute;
+	top: 50%;
+	left: 20%;
+	/*left: 50%;*/
+	/*transform: translate(-50%,-50%);*/
+
+}
+.emails button{
+	margin-left: 10px;
+}
+.emails form{
+	position: absolute;
+	top:65%;
+	left: 40%;
+
+}
+.benefits{
+	padding-top: 70px;
+	background-color: #F8F9FA;
+	padding-bottom: 70px;
+}
+.benefits-text{
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 20px;
+}
+.icons{
+	text-align: center;
+}
+.benefits p{
+	text-align: center;
+
+}
+
+
+
+	
